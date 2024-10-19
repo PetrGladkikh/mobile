@@ -1,5 +1,5 @@
 # Я протестировал [мобильное приложение](https://drive.google.com/file/d/110d3OAEuPAxLiIxXXdiS3EoU0y9pQHAY/view?usp=drive_link) Android. Для тестирования я использовал как реальное устройство, так и эмулятор "Android Studio".
-В результате были созданы следующие артефакты:
+## В результате были созданы следующие артефакты:
 ## [Чек-лист тестирования приложения ShoppingList](https://docs.google.com/spreadsheets/d/1e6jkqJxX3I_ZkmFF2qZ38Xfwn9dr6bzuavtgiIGdLOk/edit?gid=1092751510#gid=1092751510)
 ## [Тест-кейсы для приложения ShoppingList](https://github.com/PetrGladkikh/mobile/blob/main/QASE%20ShoppingList.pdf)
 ## [Отчет по результатам тестирования мобильного приложения](https://docs.google.com/document/d/18mpzvT8Rr6E5wXqlBdqKTjonBsIzAgVY/edit)
